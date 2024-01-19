@@ -54,6 +54,31 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  fonts:
+    - family: Milliard
+      fonts:
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Black.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Black-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Bold.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Bold-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Book.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Book-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-ExtraBold.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-ExtraBold-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-ExtraLight.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-ExtraLight-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Hairline.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Hairline-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Heavy.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Heavy-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Light.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Light-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Medium.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Medium-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-SemiBold.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-SemiBold-Italic.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Thin.otf
+        - asset: assets/fonts/milliard-cufonfonts/Rene-Bieder-Milliard-Thin-Italic.otf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
